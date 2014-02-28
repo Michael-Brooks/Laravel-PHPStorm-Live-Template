@@ -1,0 +1,2 @@
+Laravel-PHPStorm-Live-Template
+==============================
